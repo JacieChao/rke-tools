@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO=${REPO:-rancher}
+REPO=${REPO:-jacie}
 
 ARCH=amd64
 
